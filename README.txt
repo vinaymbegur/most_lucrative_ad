@@ -3,6 +3,7 @@ Script to fetch most lucrative advertizement combination.
 
 Ruby used - 2.1.0
 
+Data will be taken and loaded from sample_data.csv file and it can be updated with other data.
 
 Steps to run :-
 
